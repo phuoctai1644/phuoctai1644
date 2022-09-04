@@ -3,11 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/tph.tai">
+  <a href="https://www.facebook.com/tph.tai" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="mailto:tranptai@gmail.com">
+  <a href="mailto:tranptai@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/phuoc-tai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <div>
